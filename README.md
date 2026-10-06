@@ -41,10 +41,14 @@ olive for tags and labels.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Quarto**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Quarto** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/quarto/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Quarto/`, then choose Borozdov Quarto under
 Settings → Appearance → Themes.
@@ -66,6 +70,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Маргиналия» — стол
 исследователя на пергаменте и кремовой бумаге, и тёмный «Сноска» — тот же стол при
 свете лампы. Прямой антиквенный шрифт для заголовков (Quarto Serif), тёплый оранжевый
-для того, что вы выбираете, и сухой оливковый для ярлыков и тегов. Устанавливается из
-каталога: Настройки → Оформление → Темы → Настроить → Borozdov Quarto → Установить и
-применить.
+для того, что вы выбираете, и сухой оливковый для ярлыков и тегов. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Quarto в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
